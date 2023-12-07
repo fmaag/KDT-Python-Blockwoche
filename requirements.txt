@@ -4,3 +4,4 @@ plotly
 seaborn
 matplotlib
 nbformat
+scikit-learn
